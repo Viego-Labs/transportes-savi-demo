@@ -1,0 +1,1 @@
+function e(e){let t=String(e??``).trim();return/^[0-9]{5}$/.test(t)?t:null}export{e as t};

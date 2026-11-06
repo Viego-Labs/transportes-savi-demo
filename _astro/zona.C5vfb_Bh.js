@@ -1,0 +1,1 @@
+import{t as e}from"./cp._aPX9SFb.js";function t(t){let n=e(t);return n===null?`invalido`:n.startsWith(`45`)?`toledo`:n.startsWith(`10`)?`caceres`:`fuera`}export{t};
