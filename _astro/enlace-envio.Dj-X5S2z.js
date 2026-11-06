@@ -1,0 +1,1 @@
+import{t as e}from"./ref.Bftrpv5P.js";import{t}from"./cp._aPX9SFb.js";function n(n){let r=new URLSearchParams(n);return{ref:e(r.get(`ref`)),cp:t(r.get(`cp`))}}export{n as t};

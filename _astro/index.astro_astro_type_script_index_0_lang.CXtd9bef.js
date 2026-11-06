@@ -1,0 +1,1 @@
+import{t as e}from"./formulario.C-ppvWzp.js";import{t}from"./enlace-envio.Dj-X5S2z.js";var n=document.getElementById(`incidencia`);if(n){let{ref:r,cp:i}=t(location.search),a=document.getElementById(`ref`),o=document.getElementById(`cp`);r&&a&&(a.value=r),i&&o&&(o.value=i),e(n,{demo:n.dataset.demo===`1`,mensajeDemo:n.dataset.mensajeDemo||``})}
