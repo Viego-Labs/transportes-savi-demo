@@ -1,0 +1,37 @@
+{
+ "generado": "2026-11-06T09:22:47.611Z",
+ "comando": "node scripts/mapa-base.mjs savi --build 20261105",
+ "teselas": {
+  "url": "https://build.protomaps.com/20261105.pmtiles",
+  "build": "20261105.pmtiles",
+  "esquema": "4.15.2",
+  "subida": "2026-11-05T09:02:51.954Z",
+  "b3sum": "9f51eee745076ba3887356f3f5dc402b1c0874c0fcc701b68a0f4a14192694d9",
+  "zoomMaxArchivo": 15,
+  "recuadro": [
+   -7.63,
+   38.93,
+   -2.81,
+   40.59
+  ],
+  "zoomMax": 11,
+  "numero": 564,
+  "vacias": 0,
+  "bytes": 20133106
+ },
+ "estilo": "@protomaps/basemaps 5.7.2 (sabor light, lang es) con los colores de docs/ux/sistema-visual.md §7; leído con pmtiles 4.5.0",
+ "glifos": {
+  "origen": "https://protomaps.github.io/basemaps-assets/fonts/Noto%20Sans%20Medium",
+  "fuente": "Noto Sans Medium (SIL Open Font License 1.1)",
+  "rangos": [
+   "0-255",
+   "1536-1791"
+  ],
+  "bytes": 192630
+ },
+ "licencias": {
+  "datos": "OpenStreetMap, ODbL 1.0: © OpenStreetMap contributors (https://www.openstreetmap.org/copyright)",
+  "teselas": "Protomaps Basemap, obra producida bajo ODbL; atribución a OpenStreetMap obligatoria (https://docs.protomaps.com/basemaps/downloads)",
+  "municipios": "IGN, CC BY 4.0, empaquetado en es-atlas (MIT)"
+ }
+}

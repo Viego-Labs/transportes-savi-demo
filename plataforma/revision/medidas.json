@@ -1,0 +1,1301 @@
+{
+  "fecha": "2026-11-06T10:55:13.730Z",
+  "metodo": "perfilador de V8 por el inspector de workerd (wrangler dev 4.152.0), Mac de desarrollo, mediana de REPETIR peticiones tras una de calentamiento",
+  "repetir": 3,
+  "pantallas": [
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/",
+      "estado": 200,
+      "cpuMs": 43.4,
+      "cpuMaxMs": 45.1,
+      "filas": 8725,
+      "consultas": 34
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/incidencias/",
+      "estado": 200,
+      "cpuMs": 15.4,
+      "cpuMaxMs": 16.4,
+      "filas": 573,
+      "consultas": 13
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/incidencias/?estado=abiertas&filtro=fuera-de-plazo",
+      "estado": 200,
+      "cpuMs": 10.7,
+      "cpuMaxMs": 10.8,
+      "filas": 543,
+      "consultas": 13
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/incidencias/INC-2611-0033/",
+      "estado": 200,
+      "cpuMs": 12.3,
+      "cpuMaxMs": 16.8,
+      "filas": 272,
+      "consultas": 22
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/incidencias/INC-2611-0034/",
+      "estado": 200,
+      "cpuMs": 12.5,
+      "cpuMaxMs": 13,
+      "filas": 387,
+      "consultas": 23
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/incidencias/INC-2610-0179/",
+      "estado": 200,
+      "cpuMs": 12.8,
+      "cpuMaxMs": 13.7,
+      "filas": 300,
+      "consultas": 22
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/incidencias/nueva/",
+      "estado": 200,
+      "cpuMs": 6.5,
+      "cpuMaxMs": 9.1,
+      "filas": 148,
+      "consultas": 8
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/solicitudes/",
+      "estado": 200,
+      "cpuMs": 10.5,
+      "cpuMaxMs": 13.4,
+      "filas": 181,
+      "consultas": 11
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/solicitudes/PRE-2611-0003/",
+      "estado": 200,
+      "cpuMs": 10,
+      "cpuMaxMs": 10.3,
+      "filas": 1166,
+      "consultas": 16
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/solicitudes/nueva/",
+      "estado": 200,
+      "cpuMs": 7.6,
+      "cpuMaxMs": 7.9,
+      "filas": 148,
+      "consultas": 8
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/envios/",
+      "estado": 200,
+      "cpuMs": 21.5,
+      "cpuMaxMs": 26.7,
+      "filas": 2398,
+      "consultas": 12
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/envios/?lista=en-riesgo",
+      "estado": 200,
+      "cpuMs": 17,
+      "cpuMaxMs": 18.7,
+      "filas": 648,
+      "consultas": 9
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/envios/?lista=altas&desde=2026-08-08&hasta=2026-11-05",
+      "estado": 200,
+      "cpuMs": 13,
+      "cpuMaxMs": 13.7,
+      "filas": 388,
+      "consultas": 10
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/envios/2626259/",
+      "estado": 200,
+      "cpuMs": 10.1,
+      "cpuMaxMs": 13.2,
+      "filas": 91,
+      "consultas": 19
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/envios/2627173/",
+      "estado": 200,
+      "cpuMs": 10.2,
+      "cpuMaxMs": 13.6,
+      "filas": 91,
+      "consultas": 19
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/nereid/",
+      "estado": 200,
+      "cpuMs": 5.1,
+      "cpuMaxMs": 7.2,
+      "filas": 79,
+      "consultas": 10
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/servicio/",
+      "estado": 302,
+      "cpuMs": 4.3,
+      "cpuMaxMs": 5.1,
+      "filas": 68,
+      "consultas": 7
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/servicio/7-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 23.5,
+      "cpuMaxMs": 31.6,
+      "filas": 2846,
+      "consultas": 27
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/servicio/90-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 35.6,
+      "cpuMaxMs": 40,
+      "filas": 23481,
+      "consultas": 27
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/servicio/30-dias/toledo/",
+      "estado": 200,
+      "cpuMs": 21.3,
+      "cpuMaxMs": 22,
+      "filas": 8326,
+      "consultas": 26
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/operacion/",
+      "estado": 302,
+      "cpuMs": 4.9,
+      "cpuMaxMs": 5.4,
+      "filas": 68,
+      "consultas": 7
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/operacion/30-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 20.3,
+      "cpuMaxMs": 26.8,
+      "filas": 10030,
+      "consultas": 26
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/operacion/90-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 74.5,
+      "cpuMaxMs": 94.5,
+      "filas": 30623,
+      "consultas": 26
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/dinero/",
+      "estado": 302,
+      "cpuMs": 9.7,
+      "cpuMaxMs": 9.8,
+      "filas": 68,
+      "consultas": 7
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/dinero/30-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 31.3,
+      "cpuMaxMs": 31.7,
+      "filas": 13271,
+      "consultas": 32
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/dinero/90-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 44.8,
+      "cpuMaxMs": 53.2,
+      "filas": 31777,
+      "consultas": 32
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/dinero/hoy/talavera/",
+      "estado": 200,
+      "cpuMs": 16.5,
+      "cpuMaxMs": 17.2,
+      "filas": 905,
+      "consultas": 32
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/oportunidades/",
+      "estado": 200,
+      "cpuMs": 8.6,
+      "cpuMaxMs": 10.3,
+      "filas": 100,
+      "consultas": 10
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/flota/",
+      "estado": 200,
+      "cpuMs": 15,
+      "cpuMaxMs": 15,
+      "filas": 684,
+      "consultas": 15
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/flota/b13/",
+      "estado": 200,
+      "cpuMs": 17,
+      "cpuMaxMs": 17.6,
+      "filas": 2501,
+      "consultas": 24
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/flota/b13/conduccion/",
+      "estado": 200,
+      "cpuMs": 6.5,
+      "cpuMaxMs": 12,
+      "filas": 319,
+      "consultas": 10
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/clientes/",
+      "estado": 200,
+      "cpuMs": 23.9,
+      "cpuMaxMs": 28.5,
+      "filas": 10497,
+      "consultas": 28
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/clientes/ceramica-03/",
+      "estado": 200,
+      "cpuMs": 17.3,
+      "cpuMaxMs": 22.9,
+      "filas": 2577,
+      "consultas": 32
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/clientes/ferreteria-09/",
+      "estado": 200,
+      "cpuMs": 21.7,
+      "cpuMaxMs": 21.8,
+      "filas": 2357,
+      "consultas": 32
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/resenas/",
+      "estado": 200,
+      "cpuMs": 7.7,
+      "cpuMaxMs": 7.8,
+      "filas": 150,
+      "consultas": 10
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/avisos/",
+      "estado": 200,
+      "cpuMs": 7.7,
+      "cpuMaxMs": 9.2,
+      "filas": 69,
+      "consultas": 8
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/estado/",
+      "estado": 200,
+      "cpuMs": 8.7,
+      "cpuMaxMs": 9.2,
+      "filas": 121,
+      "consultas": 17
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/ajustes/",
+      "estado": 200,
+      "cpuMs": 15.8,
+      "cpuMaxMs": 20.7,
+      "filas": 109,
+      "consultas": 11
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/ajustes/notificaciones/",
+      "estado": 200,
+      "cpuMs": 11.6,
+      "cpuMaxMs": 11.7,
+      "filas": 102,
+      "consultas": 12
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/notificaciones/",
+      "estado": 200,
+      "cpuMs": 6.7,
+      "cpuMaxMs": 7.3,
+      "filas": 69,
+      "consultas": 9
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/sin-conexion/",
+      "estado": 200,
+      "cpuMs": 5.7,
+      "cpuMaxMs": 6.4,
+      "filas": 68,
+      "consultas": 7
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/no-existe/",
+      "estado": 404,
+      "cpuMs": 6.4,
+      "cpuMaxMs": 14.3,
+      "filas": 68,
+      "consultas": 7
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/manifest.webmanifest",
+      "estado": 200,
+      "cpuMs": 2.9,
+      "cpuMaxMs": 3.1,
+      "filas": 10,
+      "consultas": 2
+    },
+    {
+      "quien": "Raúl (dirección)",
+      "ruta": "/panel/buscar.json",
+      "estado": 404,
+      "cpuMs": 3.3,
+      "cpuMaxMs": 3.5,
+      "filas": 10,
+      "consultas": 2
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/",
+      "estado": 200,
+      "cpuMs": 21.2,
+      "cpuMaxMs": 35.6,
+      "filas": 1403,
+      "consultas": 27
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/incidencias/",
+      "estado": 200,
+      "cpuMs": 10.1,
+      "cpuMaxMs": 10.4,
+      "filas": 358,
+      "consultas": 11
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/incidencias/?estado=abiertas&filtro=fuera-de-plazo",
+      "estado": 200,
+      "cpuMs": 9.5,
+      "cpuMaxMs": 27,
+      "filas": 346,
+      "consultas": 11
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/incidencias/INC-2611-0033/",
+      "estado": 200,
+      "cpuMs": 10.5,
+      "cpuMaxMs": 10.5,
+      "filas": 256,
+      "consultas": 21
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/incidencias/INC-2611-0034/",
+      "estado": 403,
+      "cpuMs": 5.7,
+      "cpuMaxMs": 6.5,
+      "filas": 54,
+      "consultas": 7
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/incidencias/INC-2610-0179/",
+      "estado": 200,
+      "cpuMs": 10.5,
+      "cpuMaxMs": 12.5,
+      "filas": 284,
+      "consultas": 21
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/incidencias/nueva/",
+      "estado": 200,
+      "cpuMs": 6.1,
+      "cpuMaxMs": 6.4,
+      "filas": 133,
+      "consultas": 7
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/solicitudes/",
+      "estado": 200,
+      "cpuMs": 7.9,
+      "cpuMaxMs": 8.6,
+      "filas": 164,
+      "consultas": 10
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/solicitudes/PRE-2611-0003/",
+      "estado": 200,
+      "cpuMs": 9.1,
+      "cpuMaxMs": 14.2,
+      "filas": 1151,
+      "consultas": 15
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/solicitudes/nueva/",
+      "estado": 200,
+      "cpuMs": 7,
+      "cpuMaxMs": 15.6,
+      "filas": 133,
+      "consultas": 7
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/envios/",
+      "estado": 200,
+      "cpuMs": 20.1,
+      "cpuMaxMs": 24.4,
+      "filas": 1460,
+      "consultas": 11
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/envios/?lista=en-riesgo",
+      "estado": 200,
+      "cpuMs": 11.9,
+      "cpuMaxMs": 15.5,
+      "filas": 392,
+      "consultas": 8
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/envios/?lista=altas&desde=2026-08-08&hasta=2026-11-05",
+      "estado": 200,
+      "cpuMs": 13.1,
+      "cpuMaxMs": 13.2,
+      "filas": 417,
+      "consultas": 9
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/envios/2626259/",
+      "estado": 200,
+      "cpuMs": 11.5,
+      "cpuMaxMs": 11.6,
+      "filas": 75,
+      "consultas": 17
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/envios/2627173/",
+      "estado": 200,
+      "cpuMs": 10,
+      "cpuMaxMs": 10.3,
+      "filas": 75,
+      "consultas": 17
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/nereid/",
+      "estado": 200,
+      "cpuMs": 8.6,
+      "cpuMaxMs": 15,
+      "filas": 64,
+      "consultas": 9
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/servicio/",
+      "estado": 302,
+      "cpuMs": 4.7,
+      "cpuMaxMs": 6.1,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/servicio/7-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 17.8,
+      "cpuMaxMs": 25.6,
+      "filas": 2116,
+      "consultas": 25
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/servicio/90-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 30.8,
+      "cpuMaxMs": 31.6,
+      "filas": 18447,
+      "consultas": 25
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/servicio/30-dias/toledo/",
+      "estado": 200,
+      "cpuMs": 20.9,
+      "cpuMaxMs": 24.1,
+      "filas": 8311,
+      "consultas": 25
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/operacion/",
+      "estado": 302,
+      "cpuMs": 4.1,
+      "cpuMaxMs": 12.1,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/operacion/30-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 17.1,
+      "cpuMaxMs": 35.2,
+      "filas": 7338,
+      "consultas": 20
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/operacion/90-dias/las-dos/",
+      "estado": 200,
+      "cpuMs": 21.4,
+      "cpuMaxMs": 26.6,
+      "filas": 22358,
+      "consultas": 20
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/dinero/",
+      "estado": 302,
+      "cpuMs": 4.7,
+      "cpuMaxMs": 5,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/dinero/30-dias/las-dos/",
+      "estado": 403,
+      "cpuMs": 5.9,
+      "cpuMaxMs": 6,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/dinero/90-dias/las-dos/",
+      "estado": 403,
+      "cpuMs": 5.6,
+      "cpuMaxMs": 5.7,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/dinero/hoy/talavera/",
+      "estado": 403,
+      "cpuMs": 6.3,
+      "cpuMaxMs": 6.7,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/oportunidades/",
+      "estado": 403,
+      "cpuMs": 5.6,
+      "cpuMaxMs": 6.1,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/flota/",
+      "estado": 200,
+      "cpuMs": 12.1,
+      "cpuMaxMs": 18.1,
+      "filas": 695,
+      "consultas": 14
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/flota/b13/",
+      "estado": 200,
+      "cpuMs": 14.9,
+      "cpuMaxMs": 21.2,
+      "filas": 2486,
+      "consultas": 23
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/flota/b13/conduccion/",
+      "estado": 403,
+      "cpuMs": 7.2,
+      "cpuMaxMs": 16.4,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/clientes/",
+      "estado": 200,
+      "cpuMs": 13.8,
+      "cpuMaxMs": 15.7,
+      "filas": 5730,
+      "consultas": 14
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/clientes/ceramica-03/",
+      "estado": 200,
+      "cpuMs": 13.8,
+      "cpuMaxMs": 14.8,
+      "filas": 1381,
+      "consultas": 25
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/clientes/ferreteria-09/",
+      "estado": 200,
+      "cpuMs": 14.2,
+      "cpuMaxMs": 19.5,
+      "filas": 1166,
+      "consultas": 25
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/resenas/",
+      "estado": 403,
+      "cpuMs": 6.2,
+      "cpuMaxMs": 6.2,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/avisos/",
+      "estado": 403,
+      "cpuMs": 5.9,
+      "cpuMaxMs": 9.5,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/estado/",
+      "estado": 403,
+      "cpuMs": 5.8,
+      "cpuMaxMs": 7.3,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/ajustes/",
+      "estado": 200,
+      "cpuMs": 7.7,
+      "cpuMaxMs": 11.1,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/ajustes/notificaciones/",
+      "estado": 200,
+      "cpuMs": 9.1,
+      "cpuMaxMs": 15,
+      "filas": 62,
+      "consultas": 9
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/notificaciones/",
+      "estado": 200,
+      "cpuMs": 7.3,
+      "cpuMaxMs": 8.9,
+      "filas": 54,
+      "consultas": 8
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/sin-conexion/",
+      "estado": 200,
+      "cpuMs": 6.1,
+      "cpuMaxMs": 6.9,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/no-existe/",
+      "estado": 404,
+      "cpuMs": 6,
+      "cpuMaxMs": 11.8,
+      "filas": 53,
+      "consultas": 6
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/manifest.webmanifest",
+      "estado": 200,
+      "cpuMs": 3.2,
+      "cpuMaxMs": 3.5,
+      "filas": 10,
+      "consultas": 2
+    },
+    {
+      "quien": "Oficina de Toledo",
+      "ruta": "/panel/buscar.json",
+      "estado": 404,
+      "cpuMs": 3.6,
+      "cpuMaxMs": 3.9,
+      "filas": 10,
+      "consultas": 2
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/",
+      "estado": 200,
+      "cpuMs": 9.5,
+      "cpuMaxMs": 13,
+      "filas": 1404,
+      "consultas": 14
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/envios/",
+      "estado": 200,
+      "cpuMs": 5.3,
+      "cpuMaxMs": 30.5,
+      "filas": 372,
+      "consultas": 7
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/envios/?estado=en-curso",
+      "estado": 200,
+      "cpuMs": 6.7,
+      "cpuMaxMs": 9,
+      "filas": 372,
+      "consultas": 7
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/envios/2627173/",
+      "estado": 200,
+      "cpuMs": 5.2,
+      "cpuMaxMs": 5.2,
+      "filas": 52,
+      "consultas": 6
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/incidencias/",
+      "estado": 200,
+      "cpuMs": 6.3,
+      "cpuMaxMs": 7,
+      "filas": 153,
+      "consultas": 8
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/incidencias/INC-2610-0179/",
+      "estado": 200,
+      "cpuMs": 5.6,
+      "cpuMaxMs": 7.8,
+      "filas": 126,
+      "consultas": 9
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/incidencias/nueva/",
+      "estado": 200,
+      "cpuMs": 3.8,
+      "cpuMaxMs": 4.5,
+      "filas": 177,
+      "consultas": 5
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/informe/2026-10/",
+      "estado": 200,
+      "cpuMs": 6.7,
+      "cpuMaxMs": 7.2,
+      "filas": 229,
+      "consultas": 8
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/informe/2026-11/",
+      "estado": 200,
+      "cpuMs": 6.4,
+      "cpuMaxMs": 7.4,
+      "filas": 84,
+      "consultas": 8
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/recogida/",
+      "estado": 200,
+      "cpuMs": 4.2,
+      "cpuMaxMs": 5,
+      "filas": 685,
+      "consultas": 5
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/avisos/",
+      "estado": 200,
+      "cpuMs": 5.1,
+      "cpuMaxMs": 5.1,
+      "filas": 19,
+      "consultas": 5
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/no-existe/",
+      "estado": 404,
+      "cpuMs": 3.3,
+      "cpuMaxMs": 3.9,
+      "filas": 15,
+      "consultas": 3
+    },
+    {
+      "quien": "Cerámica 03 (portal)",
+      "ruta": "/clientes/envios/2626969/",
+      "estado": 200,
+      "cpuMs": 4.7,
+      "cpuMaxMs": 4.9,
+      "filas": 56,
+      "consultas": 6
+    }
+  ],
+  "cron": [
+    {
+      "nombre": "7:00, fichero de Nereid (parte 1)",
+      "cuando": "2026-11-05T06:00:00.000Z",
+      "cpuMs": 29.4,
+      "consultas": 35,
+      "subrequests": 40,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 1285
+    },
+    {
+      "nombre": "7:00, fichero de Nereid (parte 2)",
+      "cuando": "2026-11-05T06:00:05.000Z",
+      "cpuMs": 25.5,
+      "consultas": 25,
+      "subrequests": 30,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 2474
+    },
+    {
+      "nombre": "7:00, fichero de Nereid (parte 3)",
+      "cuando": "2026-11-05T06:00:10.000Z",
+      "cpuMs": 32.6,
+      "consultas": 26,
+      "subrequests": 31,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 3664
+    },
+    {
+      "nombre": "7:00, fichero de Nereid (parte 4)",
+      "cuando": "2026-11-05T06:00:15.000Z",
+      "cpuMs": 35.6,
+      "consultas": 25,
+      "subrequests": 30,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 4853
+    },
+    {
+      "nombre": "7:00, fichero de Nereid (parte 5)",
+      "cuando": "2026-11-05T06:00:20.000Z",
+      "cpuMs": 63.5,
+      "consultas": 26,
+      "subrequests": 31,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 6044
+    },
+    {
+      "nombre": "7:00, fichero de Nereid (parte 6)",
+      "cuando": "2026-11-05T06:00:25.000Z",
+      "cpuMs": 17.7,
+      "consultas": 26,
+      "subrequests": 31,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 7234
+    },
+    {
+      "nombre": "7:05, Geotab sin cambios",
+      "cuando": "2026-11-05T06:05:00.000Z",
+      "cpuMs": 17,
+      "consultas": 27,
+      "subrequests": 32,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 8427
+    },
+    {
+      "nombre": "7:30, resumen diario",
+      "cuando": "2026-11-05T06:30:00.000Z",
+      "cpuMs": 23.1,
+      "consultas": 38,
+      "subrequests": 43,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "resumen_diario",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 10939
+    },
+    {
+      "nombre": "10:05, pasada normal",
+      "cuando": "2026-11-05T09:05:00.000Z",
+      "cpuMs": 23.1,
+      "consultas": 38,
+      "subrequests": 43,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "resumenes_clientes",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 12517
+    },
+    {
+      "nombre": "18:00, pesados de mañana",
+      "cuando": "2026-11-05T17:00:00.000Z",
+      "cpuMs": 21.6,
+      "consultas": 34,
+      "subrequests": 44,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "pesados",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 13825
+    },
+    {
+      "nombre": "2:00, oportunidades",
+      "cuando": "2026-11-06T01:00:00.000Z",
+      "cpuMs": 23.2,
+      "consultas": 32,
+      "subrequests": 42,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 957402
+    },
+    {
+      "nombre": "2:05, oportunidades",
+      "cuando": "2026-11-06T01:05:00.000Z",
+      "cpuMs": 34.7,
+      "consultas": 38,
+      "subrequests": 43,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 970220
+    },
+    {
+      "nombre": "2:10, oportunidades",
+      "cuando": "2026-11-06T01:10:00.000Z",
+      "cpuMs": 29.3,
+      "consultas": 35,
+      "subrequests": 40,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 983036
+    },
+    {
+      "nombre": "2:15, oportunidades",
+      "cuando": "2026-11-06T01:15:00.000Z",
+      "cpuMs": 28.7,
+      "consultas": 35,
+      "subrequests": 40,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 995829
+    },
+    {
+      "nombre": "2:20, oportunidades",
+      "cuando": "2026-11-06T01:20:00.000Z",
+      "cpuMs": 28.1,
+      "consultas": 36,
+      "subrequests": 41,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 1002938
+    },
+    {
+      "nombre": "2:25, oportunidades",
+      "cuando": "2026-11-06T01:25:00.000Z",
+      "cpuMs": 27.2,
+      "consultas": 35,
+      "subrequests": 40,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 1010989
+    },
+    {
+      "nombre": "2:30, oportunidades",
+      "cuando": "2026-11-06T01:30:00.000Z",
+      "cpuMs": 38,
+      "consultas": 35,
+      "subrequests": 40,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 1018079
+    },
+    {
+      "nombre": "3:00, limpieza",
+      "cuando": "2026-11-06T02:00:00.000Z",
+      "cpuMs": 26.6,
+      "consultas": 28,
+      "subrequests": 38,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "oportunidades",
+        "limpieza",
+        "cerrar",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 1019861
+    },
+    {
+      "nombre": "lunes 8:00, resumen semanal",
+      "cuando": "2026-11-09T07:00:00.000Z",
+      "cpuMs": 36.1,
+      "consultas": 32,
+      "subrequests": 42,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "resumen_diario",
+        "resumenes_clientes",
+        "resumen_semanal",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 1814
+    },
+    {
+      "nombre": "lunes 8:05",
+      "cuando": "2026-11-09T07:05:00.000Z",
+      "cpuMs": 135.9,
+      "consultas": 37,
+      "subrequests": 42,
+      "errores": 0,
+      "hecho": [
+        "conectores",
+        "resumenes_clientes",
+        "resumen_semanal",
+        "reglas",
+        "pospuestas",
+        "precios",
+        "sin_causa",
+        "notificaciones",
+        "correo"
+      ],
+      "lecturasDelDia": 33191
+    }
+  ],
+  "correo": {
+    "nombre": "correo de Nereid con 76 envíos del día",
+    "cpuMs": 0,
+    "bytes": 18600
+  }
+}
