@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Avisar de una incidencia | Transportes Savi</title>
+<meta name="description" content="Si tu envío no ha llegado, ha llegado dañado o falta mercancía, avísanos aquí con el localizador.">
+<link rel="preload" href="fuentes/archivo.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<p class="demo">Propuesta de Viego Labs para Transportes Savi. Versión de demostración: los formularios no envían nada.</p>
+
+<header class="cabecera">
+  <div class="contenedor">
+    <a class="logo" href="./"><img src="img/logo-savi.png" width="386" height="100" alt="Transportes Savi, inicio"></a>
+    <nav aria-label="Principal"><ul class="menu-principal">
+      <li><a href="./#servicios">Servicios</a></li>
+      <li><a href="./#cobertura">Cobertura</a></li>
+      <li><a href="./#seguimiento">Seguimiento</a></li>
+      <li><a href="./#savi">Empresa</a></li>
+      <li><a href="./#naves">Contacto</a></li>
+    </ul></nav>
+    <div class="acciones">
+      <details class="llamar">
+        <summary><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z"/></svg><span class="texto-llamar">Llamar</span><span class="visualmente-oculto"> a una nave</span></summary>
+        <div class="llamar-panel">
+          <a href="tel:+34925803642"><span>Talavera de la Reina</span><strong>925 80 36 42</strong></a>
+          <a href="tel:+34925245467"><span>Toledo</span><strong>925 24 54 67</strong></a>
+        </div>
+      </details>
+      <a class="boton boton-naranja" href="presupuesto.html">Pedir presupuesto</a>
+      <button class="boton-menu cerrar" popovertarget="menu-movil" aria-label="Abrir el menú">Menú</button>
+    </div>
+  </div>
+</header>
+<div id="menu-movil" class="menu-movil" popover>
+  <button class="cerrar" popovertarget="menu-movil" popovertargetaction="hide">Cerrar</button>
+  <ul>
+    <li><a href="./#servicios">Servicios</a></li>
+    <li><a href="./#cobertura">Cobertura</a></li>
+    <li><a href="./#seguimiento">Seguimiento</a></li>
+    <li><a href="./#savi">Empresa</a></li>
+    <li><a href="./#naves">Contacto</a></li>
+  </ul>
+  <a class="boton boton-naranja" href="presupuesto.html">Pedir presupuesto</a>
+</div>
+
+<main class="contenedor">
+<div class="pagina-cabeza">
+  <h1>Avisar de una incidencia</h1>
+  <p>Si tu envío no ha llegado, ha llegado dañado o falta mercancía, cuéntanoslo aquí. Lo revisa la nave que lleva tu envío y te contesta <span class="pendiente">Pendiente de Savi: en cuánto tiempo</span>.</p>
+</div>
+<form class="formulario" id="incidencia" novalidate>
+  <fieldset class="bloque">
+    <legend>Tu envío</legend>
+    <div class="fila">
+      <div class="campo"><label for="ref">Localizador</label><input id="ref" name="ref" required maxlength="20" autocomplete="off" spellcheck="false"><span class="ayuda">Está en tu albarán.</span></div>
+      <div class="campo"><label for="cp">Código postal de entrega</label><input id="cp" name="cp" required inputmode="numeric" pattern="[0-9]{5}" maxlength="5" autocomplete="postal-code"></div>
+    </div>
+  </fieldset>
+  <fieldset class="bloque">
+    <legend>Qué ha pasado</legend>
+    <fieldset class="opciones"><legend class="visualmente-oculto">Tipo de incidencia</legend>
+      <label class="opcion"><input type="radio" name="tipo" value="no-llega" checked><span>No ha llegado</span></label>
+      <label class="opcion"><input type="radio" name="tipo" value="danado"><span>Ha llegado dañado</span></label>
+      <label class="opcion"><input type="radio" name="tipo" value="falta"><span>Falta mercancía</span></label>
+      <label class="opcion"><input type="radio" name="tipo" value="otra"><span>Otra cosa</span></label>
+    </fieldset>
+    <div class="campo"><label for="descripcion">Cuéntanos qué ha pasado</label><textarea id="descripcion" name="descripcion" required></textarea></div>
+    <div class="campo"><label for="foto">Foto (opcional)</label><input id="foto" name="foto" type="file" accept="image/*" aria-describedby="foto-ayuda"><span class="ayuda" id="foto-ayuda">Si el envío ha llegado dañado, una foto nos ayuda a resolverlo antes. Hasta 5 MB.</span></div>
+  </fieldset>
+  <fieldset class="bloque">
+    <legend>Cómo te contactamos</legend>
+    <div class="fila">
+      <div class="campo"><label for="nombre">Nombre</label><input id="nombre" name="nombre" autocomplete="name" required></div>
+      <div class="campo"><label for="telefono">Teléfono</label><input id="telefono" name="telefono" type="tel" autocomplete="tel" required></div>
+    </div>
+    <div class="campo"><label for="correo">Correo (opcional)</label><input id="correo" name="correo" type="email" autocomplete="email"></div>
+  </fieldset>
+  <div class="enviar">
+    <button class="boton boton-azul" type="submit">Avisar de la incidencia</button>
+    <p class="info-datos">Transportes Savi usará estos datos solo para resolver la incidencia. Puedes acceder a ellos, corregirlos o pedir que se borren. Más información en la <a href="#">política de privacidad</a>.</p>
+    <p class="confirmacion" id="confirmacion" role="status" aria-live="polite"></p>
+  </div>
+</form>
+</main>
+<footer class="pie">
+  <div class="contenedor">
+    <div>
+      <strong>Transportes Savi</strong>
+      <p style="margin-top:10px">Transportes Savi 2025 SL <span class="pendiente">Pendiente de Savi: sociedad y datos registrales</span><br>CIF B75638437. C/ Edison, parcelas R81-R83, P. I. Torrehierro, 45600 Talavera de la Reina.</p>
+    </div>
+    <ul><li><a href="./#servicios">Servicios</a></li><li><a href="./#cobertura">Cobertura</a></li><li><a href="./#seguimiento">Seguimiento</a></li><li><a href="presupuesto.html">Pedir presupuesto</a></li></ul>
+    <ul><li><a href="#">Aviso legal</a></li><li><a href="#">Privacidad</a></li><li><a href="./#canal">Canal de información</a></li></ul>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var q=new URLSearchParams(location.search),f=document.getElementById('incidencia'),c=document.getElementById('confirmacion');
+  if(q.get('ref'))document.getElementById('ref').value=q.get('ref').slice(0,20);
+  if(/^[0-9]{5}$/.test(q.get('cp')||''))document.getElementById('cp').value=q.get('cp');
+  f.addEventListener('submit',function(e){e.preventDefault();
+    var mal=Array.prototype.filter.call(f.querySelectorAll('[required]'),function(i){return !i.checkValidity();});
+    if(mal.length){c.textContent='Faltan datos o hay alguno mal escrito: revisa los campos marcados.';mal.forEach(function(i){i.setAttribute('aria-invalid','true');});mal[0].focus();return;}
+    c.textContent='Esto es una demostración: el aviso no se ha enviado. En la web definitiva llega a la nave que lleva tu envío y verás aquí el número de incidencia.';});
+})();
+</script>
+</body>
+</html>
