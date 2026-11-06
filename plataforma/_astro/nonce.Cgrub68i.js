@@ -1,0 +1,1 @@
+if(typeof document<`u`&&globalThis.__webpack_nonce__===void 0){let e=document.querySelector(`meta[name="csp-nonce"]`)?.getAttribute(`content`);e&&(globalThis.__webpack_nonce__=e)}
