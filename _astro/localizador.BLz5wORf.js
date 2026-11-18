@@ -1,0 +1,1 @@
+var e=RegExp(`^[ABCDEFGHJKMNPQRSTUVWXYZ]{8}$`);function t(t){let n=String(t??``).replace(/[\s-]/g,``).toUpperCase();return e.test(n)?{localizador:n,error:``}:{localizador:String(t??``).trim(),error:`Escribe las 8 letras del localizador.`}}export{t};

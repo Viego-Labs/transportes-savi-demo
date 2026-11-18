@@ -1,0 +1,1 @@
+function e(e){return String(e??``).toUpperCase().replace(/[^A-Z]/g,``).slice(0,8)}function t(t){let n=new URLSearchParams(t);return{localizador:e(n.get(`localizador`)),viejo:!n.has(`localizador`)&&(n.has(`ref`)||n.has(`cp`))}}export{e as n,t};

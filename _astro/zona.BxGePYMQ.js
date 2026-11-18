@@ -1,0 +1,1 @@
+function e(e){let t=String(e??``).trim();return/^[0-9]{5}$/.test(t)?t:null}function t(t){let n=e(t);return n===null?`invalido`:n.startsWith(`45`)?`toledo`:n.startsWith(`10`)?`caceres`:`fuera`}export{t};

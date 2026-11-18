@@ -1,0 +1,1 @@
+function e(e,t,n){let r=new URLSearchParams(e).get(t);return n.includes(r)?r:null}export{e as t};
